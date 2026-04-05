@@ -28,6 +28,12 @@ I'm genuinely sorry for the inconvenience and the disappointment. I know many of
 
 This repo contains **full world backups** from the Quadstronix servers. Download them, load them up in singleplayer, host them yourself — these builds are yours. You earned them.
 
+---
+
+## 🛠️ A Message from Quadstronaut
+
+Hey all — I'm the one who set up and maintained the server infrastructure for Quadstronix. I've archived the full world backups here so nothing gets lost. Here's how to grab them:
+
 ### 📥 Download the World Backups
 
 Each world has its own download page. Click the links below, then download **all** the `.part` files listed under "Assets":
@@ -71,6 +77,8 @@ cat JoJo-Winds-of-Requiem.zip.part* > JoJo-Winds-of-Requiem.zip
 - **Linux:** `~/.minecraft/saves/`
 
 > **Note:** These are **modded** server worlds. You'll need the matching modpack/mods to load them properly. They won't work in vanilla Minecraft.
+
+— **Quadstronaut**
 
 ---
 
