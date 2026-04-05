@@ -28,10 +28,49 @@ I'm genuinely sorry for the inconvenience and the disappointment. I know many of
 
 This repo contains **full world backups** from the Quadstronix servers. Download them, load them up in singleplayer, host them yourself — these builds are yours. You earned them.
 
-> **How to use:** Download the world folder(s) and place them in your Minecraft `saves` directory:
-> - **Windows:** `%appdata%\.minecraft\saves\`
-> - **macOS:** `~/Library/Application Support/minecraft/saves/`
-> - **Linux:** `~/.minecraft/saves/`
+### 📥 Download the World Backups
+
+Each world has its own download page. Click the links below, then download **all** the `.part` files listed under "Assets":
+
+| World | Size | Download |
+|-------|------|----------|
+| **AOT Helos** (Attack on Titan themed) | ~4.0 GB (3 parts) | [**Download AOT Helos**](https://github.com/Quadstronaut/NoiisFortressMCWorldBAKs/releases/tag/aot-helos) |
+| **JoJo Winds of Requiem** (JoJo's Bizarre Adventure themed) | ~5.8 GB (4 parts) | [**Download JoJo Winds of Requiem**](https://github.com/Quadstronaut/NoiisFortressMCWorldBAKs/releases/tag/jojo-winds-of-requiem) |
+
+> **Important:** Each world is split into multiple smaller files because of GitHub's file size limit. You need to download **all parts** for a world and combine them before extracting.
+
+### 🔧 How to Set Up
+
+**Step 1: Download all parts** from the release page (click "Assets" to expand the file list if needed)
+
+**Step 2: Combine the parts into one zip file**
+
+**Windows (open PowerShell or Command Prompt in your Downloads folder):**
+```
+# For AOT Helos:
+copy /b AOT-Helos.zip.partaa+AOT-Helos.zip.partab+AOT-Helos.zip.partac AOT-Helos.zip
+
+# For JoJo Winds of Requiem:
+copy /b JoJo-Winds-of-Requiem.zip.partaa+JoJo-Winds-of-Requiem.zip.partab+JoJo-Winds-of-Requiem.zip.partac+JoJo-Winds-of-Requiem.zip.partad JoJo-Winds-of-Requiem.zip
+```
+
+**macOS / Linux (open Terminal in your Downloads folder):**
+```bash
+# For AOT Helos:
+cat AOT-Helos.zip.part* > AOT-Helos.zip
+
+# For JoJo Winds of Requiem:
+cat JoJo-Winds-of-Requiem.zip.part* > JoJo-Winds-of-Requiem.zip
+```
+
+**Step 3: Extract the zip** using 7-Zip, WinRAR, or your OS's built-in extractor
+
+**Step 4: Place the world folder** in your Minecraft saves directory:
+- **Windows:** `%appdata%\.minecraft\saves\`
+- **macOS:** `~/Library/Application Support/minecraft/saves/`
+- **Linux:** `~/.minecraft/saves/`
+
+> **Note:** These are **modded** server worlds. You'll need the matching modpack/mods to load them properly. They won't work in vanilla Minecraft.
 
 ---
 
