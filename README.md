@@ -78,6 +78,8 @@ cat JoJo-Winds-of-Requiem.zip.part* > JoJo-Winds-of-Requiem.zip
 
 > **Note:** These are **modded** server worlds. You'll need the matching modpack/mods to load them properly. They won't work in vanilla Minecraft.
 
+If you have questions or need help, join the new Discord server: **[discord.gg/2AVcfrCFRd](https://discord.gg/2AVcfrCFRd)**
+
 — **Quadstronaut**
 
 ---
