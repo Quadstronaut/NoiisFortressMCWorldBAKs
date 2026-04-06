@@ -99,6 +99,7 @@ If you have questions or need help, join the old Discord server for some basic h
 <br><br>
 
 🎮 **[JoJo's Bizarre Incremental on Roblox](https://www.roblox.com/games/106022825094913/JoJos-Bizarre-Incremental)**
+💬 **[JoJo's Bizarre Incremental on Discord](https://discord.gg/PfT93GQCwD)**
 
 </div>
 
@@ -125,6 +126,6 @@ See you in Roblox. 🌟
 
 <div align="center">
 
-*Thanks for everything, Quadstronix fam.* 💜
+*Thanks for everything, Quadstronaut fam.* 💜
 
 </div>
