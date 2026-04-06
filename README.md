@@ -2,7 +2,7 @@
 
 # 🏰 Noii's Fortress — Minecraft World Backups
 
-### ⚔️ The Quadstronix Minecraft Servers Have Closed ⚔️
+### ⚔️ The Noii's Fortress Minecraft Servers Have Closed ⚔️
 
 <br>
 
