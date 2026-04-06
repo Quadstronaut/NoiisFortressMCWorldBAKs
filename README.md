@@ -126,6 +126,6 @@ See you in Roblox. 🌟
 
 <div align="center">
 
-*Thanks for everything, Quadstronaut fam.* 💜
+*Thanks for everything, fam.* 💜
 
 </div>
